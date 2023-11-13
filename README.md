@@ -16,7 +16,7 @@ Home Assignment
 
 ## Introduction
 
-Provide a brief overview of the application, its purpose, and features.
+Please, read the full documentation [https://github.com/petrovicluka/MotuNovu/blob/master/HomeAssignmentDocumentation.pdf]
 
 ## Technologies Used
 
