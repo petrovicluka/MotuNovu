@@ -37,6 +37,24 @@ Make sure you have the following installed on your machine:
 - MySQL
 - ...
 
+
+### Backend Setup
+
+1. Navigate to the 'backend' directory.
+   ```
+   cd backend
+   ```
+2. Import the database schema from the provided SQL file:
+   ```bash
+   mysql -u <username> -p <schema_name> < database.sql
+
+
+
+
+
+
+
+
 ### Database Setup
 
 1. Open MySQL Workbench and create a new schema.
