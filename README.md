@@ -40,17 +40,37 @@ Make sure you have the following installed on your machine:
 
 ### Backend Setup
 
-1. Navigate to the 'backend' directory.
-   ```
+1. Navigate to the 'backend' directory:
+   ```bash
    cd backend
    ```
-2. Import the database schema from the provided SQL file:
+2. Install dependencies:
    ```bash
-   mysql -u <username> -p <schema_name> < database.sql
+   npm install
+   ```
+4. Start the backend server:
+   ```bash
+       node index.js
+     ```
+5. The backend server should now be running on http://localhost:3001.
+   
 
+### Frontend Setup
 
+1. Navigate to the 'frontend' directory:
+   ```bash
+   cd user-managment-app
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-
+4. Start the frontend application:
+   ```bash
+      npm start
+     ```
+5. Open your browser and visit http://localhost:3000 to view the application.
 
 
 
