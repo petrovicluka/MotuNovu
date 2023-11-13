@@ -81,5 +81,5 @@ Make sure you have the following installed on your machine:
 
 2. Import the database schema from the provided SQL file:
    ```bash
-   mysql -u <username> -p <schema_name> < database.sql
+   mysql -u <username> -p <schema_name> < motunovu.sql
 
