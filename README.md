@@ -56,7 +56,7 @@ Make sure you have the following installed on your machine:
 
 ### Frontend Setup
 
-1. Navigate to the 'frontend' directory:
+1. Navigate to the 'user-managment-app' directory:
    ```bash
    cd user-managment-app
    ```
