@@ -79,7 +79,7 @@ Make sure you have the following installed on your machine:
 
 1. Open MySQL Workbench and create a new schema.
 
-2. Import the database schema from the provided SQL file:
+2. Import the database schema from the provided SQL file(motunovu.sql):
    ```bash
    mysql -u <username> -p <schema_name> < motunovu.sql
 
