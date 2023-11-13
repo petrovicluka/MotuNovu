@@ -50,8 +50,8 @@ Make sure you have the following installed on your machine:
    ```
 4. Start the backend server:
    ```bash
-       node index.js
-     ```
+   node index.js
+   ```
 5. The backend server should now be running on http://localhost:3001.
    
 
@@ -68,8 +68,8 @@ Make sure you have the following installed on your machine:
 
 4. Start the frontend application:
    ```bash
-      npm start
-     ```
+   npm start
+   ```
 5. Open your browser and visit http://localhost:3000 to view the application.
 
 
