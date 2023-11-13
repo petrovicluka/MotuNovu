@@ -16,7 +16,7 @@ Home Assignment
 
 ## Introduction
 
-Please, read the full documentation [here] (https://github.com/petrovicluka/MotuNovu/blob/master/HomeAssignmentDocumentation.pdf)
+Please, read the full documentation [here](https://github.com/petrovicluka/MotuNovu/blob/master/HomeAssignmentDocumentation.pdf)
 
 ## Technologies Used
 
